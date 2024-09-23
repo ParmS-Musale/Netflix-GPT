@@ -77,11 +77,7 @@ const Login = () => {
     <div>
       <Header />
       <div>
-        <img
-          className="absolute "
-          src={BACKGROUND_URL}
-          alt="Background-img"
-        />
+        <img className="absolute " src={BACKGROUND_URL} alt="Background-img" />
       </div>
       <form
         onClick={(e) => e.preventDefault()}
