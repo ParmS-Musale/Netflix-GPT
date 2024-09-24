@@ -29,3 +29,8 @@ export const SUPPORTED_LANGUAGES = [
     name: "Spanish",
   },
 ];
+
+export const COHERE_KEY = "c7Qb4ZrE4WRnROeApsJhlUU5v4BGyXWrNN16VFyX"
+
+
+
